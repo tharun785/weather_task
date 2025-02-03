@@ -65,8 +65,7 @@ The project consists of the following key files:
     const API_KEY = "4c0263b9a6d2310438d4f911c6f0c4b2";
    
 4. Start the development server:
-   bash
-   npm run dev
+    npm run dev
    
 5. Open *http://localhost:5173/* in your browser.
 
