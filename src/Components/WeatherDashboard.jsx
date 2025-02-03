@@ -6,7 +6,7 @@ import SearchInput from "./SearchInput";
 import WeatherInfo from "./WeatherInfo";
 import ErrorMessage from "./ErrorMessage";
 
-const API_KEY = "4c0263b9a6d2310438d4f911c6f0c4b2"; // Replace with your actual API key
+const API_KEY = "4c0263b9a6d2310438d4f911c6f0c4b2"; 
 const API_URL = "https://api.openweathermap.org/data/2.5/weather";
 
 const WeatherContainer = styled.div`
