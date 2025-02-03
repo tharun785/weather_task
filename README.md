@@ -55,7 +55,7 @@ The project consists of the following key files:
 
 ### *Steps to Run the Project:*
 1. Clone the repository:
-    git clone https://github.com/your-repo/weather-dashboard.git
+    git clone https://github.com/tharun785/weather_task.git
    cd weather-dashboard
    
 2. Install dependencies:
